@@ -3,5 +3,5 @@ const message = document.getElementById('message');
 
 button.addEventListener('click', function() {
   message.textContent = '🎉 مبروك! نجحت تجربة Git بنجاح - من فرع الميزة';
-  message.style.color = '#4ade80';
+  message.style.color = '#bc1fc1';
 });
